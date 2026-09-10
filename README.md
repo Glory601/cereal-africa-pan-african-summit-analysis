@@ -155,7 +155,7 @@ The dashboard provided a centralized view of campaign performance, participant c
 
 ### Final Power BI Dashboard
 
-*Final dashboard screenshot will be added here.*
+![Final Power BI Dashboard](screenshots/final-dashboard.png)
 
 ### Registration Tracking
 
