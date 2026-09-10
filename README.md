@@ -159,7 +159,9 @@ The dashboard provided a centralized view of campaign performance, participant c
 
 ### Registration Tracking
 
-*Registration tracking screenshot will be added here.*
+### Registration Tracking
+
+![Registration Tracking](screenshots/registration-tracking-structure.png)
 
 ### Partnership / Stakeholder Responses
 
