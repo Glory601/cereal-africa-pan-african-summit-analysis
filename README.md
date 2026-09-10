@@ -1,26 +1,37 @@
 # Cereal+ Africa Pan African Summit — Registration Analytics
 
+> **Data Analytics Portfolio Project | Campaign Performance & Registration Insights**
+
 ## 📊 Project Overview
 
-This project analyzes registration data for the Cereal+ Africa Pan African Summit to evaluate campaign performance, understand participant demographics, identify effective registration channels, and monitor progress toward the registration target.
+This project analyzes registration data for the **Cereal+ Africa Pan African Summit** to evaluate campaign performance, understand participant demographics, identify effective registration channels, and track progress toward the registration target.
 
-The analysis combines registration tracking with Power BI visualization to turn raw registration data into actionable business insights.
+The project transforms registration data into **clear business insights through data analysis and Power BI visualization**, helping stakeholders understand what is working and where further campaign action is needed.
 
----
+### 📌 At a Glance
+
+| Metric | Result |
+|---|---:|
+| **Total Registrations** | **68** |
+| **Registration Target** | **80** |
+| **Target Achievement** | **85%** |
+| **Week 4 Registrations** | **22** |
+| **Week 4 Growth** | **69%** |
 
 ## 🎯 Business Problem
 
 The summit team needed a clear and reliable way to monitor registration performance throughout the campaign.
 
-The key questions were:
+The analysis focused on answering key business questions:
 
-- How many participants had registered?
+- How many participants registered?
 - How close were registrations to the target?
 - Which channels generated the most registrations?
 - Who were the major participant groups?
 - Where were participants registering from?
 - How did registration performance change over time?
-- What actions could help improve registration performance?
+- What actions could improve registration performance?
+---
 
 ---
 
