@@ -1,6 +1,18 @@
 # Cereal+ Africa Pan African Summit — Registration Analytics
 
 > **Data Analytics Portfolio Project | Campaign Performance & Registration Insights**
+## 👩🏽‍💻 About Me
+
+**Glory Maurice**
+
+Data Analyst passionate about turning raw data into clear insights that support better business decisions.
+
+I work with data collection, data cleaning, analysis, visualization, and business intelligence, with a focus on creating practical and easy-to-understand reports.
+
+### 🔗 Connect With Me
+
+- **LinkedIn:** [Glory Maurice](https://www.linkedin.com/in/glory-maurice-9309b43a2/)
+- **GitHub:** [Glory601](https://github.com/Glory601)
 
 ## 📊 Project Overview
 
